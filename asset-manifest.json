@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactEmailAuth/static/css/main.92c291eb.css",
+    "main.js": "/ReactEmailAuth/static/js/main.a8836355.js",
+    "index.html": "/ReactEmailAuth/index.html",
+    "main.92c291eb.css.map": "/ReactEmailAuth/static/css/main.92c291eb.css.map",
+    "main.a8836355.js.map": "/ReactEmailAuth/static/js/main.a8836355.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c291eb.css",
+    "static/js/main.a8836355.js"
+  ]
+}
